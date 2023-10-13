@@ -236,6 +236,7 @@ Remarque: Contrairement au partage avec d'autres salariés du CEN-NA, il vous es
 
 ## Cas des projets QGIS
 ## etc...
+## retrouver tous les fichiers partagés avec une personne en particulier
 
 ------------------
 
