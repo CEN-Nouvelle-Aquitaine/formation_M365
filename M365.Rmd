@@ -59,7 +59,7 @@ Cliquez ensuite sur l'onglet "Mes fichiers" dans l'encart en haut à gauche de v
 ## OneDrive CEN-NA
 
 Le OneDrive CEN-NA correspond à un type de OneDrive (OneDrive Entreprise) spécialement conçu pour les structures dont l'un des objectifs principales est de faciliter le travail collaboratif et le partage de fichiers au sein des équipes.
-Contrairement au OneDrive salarié, la stratégie de contrôle d’accès aux dossiers du OneDrive CEN-NA sont gérés par la DSI ainsi que les niveaux des modalités de partage afin de garantir la sécurité de nos données. Chaque salarié du CEN-NA a ainsi, en fonction de son appartenance à des groupes de sécurité (CSE / CODIR / Services etc.), automatiquement accès aux dossiers de travail du CEN-NA qui lui sont accessibles.
+Contrairement au OneDrive salarié, la stratégie de contrôle d’accès aux dossiers du OneDrive CEN-NA est gérée par la DSI ainsi que les niveaux des modalités de partage afin de garantir la sécurité de nos données. Chaque salarié du CEN-NA a ainsi, en fonction de son appartenance à des groupes de sécurité (CSE / CODIR / Services etc.), automatiquement accès aux dossiers de travail du CEN-NA qui lui sont accessibles.
 
 Tout comme pour le OneDrive salarié, il est possible d'accéder au OneDrive CEN-NA depuis votre navigateur internet. Néanmoins, le OneDrive CEN-NA étant en réalité un agglomérat de plusieurs OneDrive il n'est pas accessible via une url unique mais via 7 url pointant vers les dossiers parents de l'arborescence de ce serveur CEN-NA:
 
