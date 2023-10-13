@@ -235,9 +235,11 @@ Remarque: Contrairement au partage avec d'autres salariés du CEN-NA, il vous es
 # **3. Divers**
 
 ## Cas des projets QGIS
-## etc...
+## Bug : ouverture du OneDrive depuis Firefox est problématique
 ## retrouver tous les fichiers partagés avec une personne en particulier
+## ...
 
+(liste à enrichir au fur et à mesure sur la base du retour des collègues)
 ------------------
 
 
