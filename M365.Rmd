@@ -92,21 +92,25 @@ Aussi pour faciliter l'accès au Serveur CEN-NA et afin de pouvoir accéder à l
 
 <p style="text-align: center;"> ![](images/synchro_ON_2.png) </p>
 
-3. Une fois connecté, votre OneDrive et son contenu doit s'afficher dans votre explorateur de fichiers :
+3. Ne sauvegardez pas vos dossiers de votre ordinateur avec le OneDrive si vous n'avez pas plusieurs dizaines de Go de libres sur le disque dur de votre PC. (Cliquez dans ce cas sur "Je le ferai plus tard" situé en bas à gauche de la fenêtre)
+
+<p style="text-align: center;"> ![](images/skip_backup.png) </p>
+
+4. Une fois connecté, votre OneDrive et son contenu doit s'afficher dans votre explorateur de fichiers :
 
 <p style="text-align: center;"> ![](images/synchro_ON_3.png) </p>
 
-4. En plus du OneDrive salarié nous allons maintenant pouvoir ajouter le OneDrive CEN-NA à l'explorateur de fichiers.
+5. En plus du OneDrive salarié nous allons maintenant pouvoir ajouter le OneDrive CEN-NA à l'explorateur de fichiers.
 Il vous suffit pour chaque dossier parent de l'arborescence serveur ([00_Ressources](https://conservatoirena-my.sharepoint.com/personal/medias_cen-na_org/_layouts/15/onedrive.aspx?csf=1&web=1&cid=9fb7155e%2D3ce7%2D44fa%2Da39c%2D0ae8ef1e1dd1&id=%2Fpersonal%2Fmedias%5Fcen%2Dna%5Forg%2FDocuments%2F00%5FRessources&FolderCTID=0x012000EE6CF94A57AC2C47B7F26258FA694D92&view=0) / [01_Vie_Interne](https://conservatoirena-my.sharepoint.com/personal/cen_conservatoirena_onmicrosoft_com/_layouts/15/onedrive.aspx?csf=1&web=1&cid=643cd14f%2Dcc2f%2D4783%2Da577%2Dfc5e6845f292&id=%2Fpersonal%2Fcen%5Fconservatoirena%5Fonmicrosoft%5Fcom%2FDocuments%2F01%5FVie%5Finterne&FolderCTID=0x0120004CC4BD33D11F764EB1D59C49373A0295&view=0) / [02_Services](https://conservatoirena-my.sharepoint.com/personal/services_conservatoirena_onmicrosoft_com/_layouts/15/onedrive.aspx?csf=1&web=1&cid=e8647535%2D193d%2D4311%2D99a0%2D2cda112c9755&id=%2Fpersonal%2Fservices%5Fconservatoirena%5Fonmicrosoft%5Fcom%2FDocuments%2F02%5FServices&FolderCTID=0x0120004CC4BD33D11F764EB1D59C49373A0295&view=0) / [03_Antennes_Billere](https://conservatoirena-my.sharepoint.com/personal/billere_conservatoirena_onmicrosoft_com/_layouts/15/onedrive.aspx?csf=1&web=1&cid=0076b766%2Dd198%2D451b%2Db478%2D8f78a8f130d5&id=%2Fpersonal%2Fbillere%5Fconservatoirena%5Fonmicrosoft%5Fcom%2FDocuments%2F03%5FAntennes%5FBillere&FolderCTID=0x0120004CC4BD33D11F764EB1D59C49373A0295&view=0) / [04_Antennes_Poitiers](https://conservatoirena-my.sharepoint.com/personal/poitiers_conservatoirena_onmicrosoft_com/_layouts/15/onedrive.aspx?csf=1&web=1&cid=c162f77f%2D3177%2D4de5%2D8347%2D58f52a8b18a8&id=%2Fpersonal%2Fpoitiers%5Fconservatoirena%5Fonmicrosoft%5Fcom%2FDocuments%2F04%5FAntennes%5FPoitiers&FolderCTID=0x0120004CC4BD33D11F764EB1D59C49373A0295&view=0) / [05_Antennes_Saint-Gence](https://conservatoirena-my.sharepoint.com/personal/saintgence_conservatoirena_onmicrosoft_com/_layouts/15/onedrive.aspx?csf=1&web=1&cid=bad579b2%2D4aaf%2D4f56%2D8909%2D3465c2d70fe2&id=%2Fpersonal%2Fsaintgence%5Fconservatoirena%5Fonmicrosoft%5Fcom%2FDocuments%2F05%5FAntennes%5FSaint%2DGence&FolderCTID=0x0120004CC4BD33D11F764EB1D59C49373A0295&view=0) / [06_Archives](https://conservatoirena-my.sharepoint.com/personal/archives_cen-na_org/_layouts/15/onedrive.aspx?csf=1&web=1&cid=fce8e1a1%2D0871%2D4e2d%2D9a92%2De0a202e0759b&id=%2Fpersonal%2Farchives%5Fcen%2Dna%5Forg%2FDocuments%2F06%5FArchives&FolderCTID=0x012000EE6CF94A57AC2C47B7F26258FA694D92&view=0) / [07_Dossiers_transversaux](https://conservatoirena-my.sharepoint.com/personal/cen_conservatoirena_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcen%5Fconservatoirena%5Fonmicrosoft%5Fcom%2FDocuments%2F07%5FDossiers%5Ftransversaux&FolderCTID=0x0120004CC4BD33D11F764EB1D59C49373A0295&view=0)) de cliquer sur le bouton "Synchroniser" pour voir ce dossier épinglé à votre explorateur de fichier.
 
 <p style="text-align: center;"> ![](images/synchro_ON_4.png) </p>
 <font size="2"><p style="text-align: center;">*Exemple pour le dossier 00_Ressources*</p></font> 
 
-5. Le OneDrive CEN-NA matérialisé par une icône d'immeuble bleu devrait apparaître dans votre explorateur de fichier avec le dossier CEN - 00_Ressources. 
+6. Le OneDrive CEN-NA matérialisé par une icône d'immeuble bleu devrait apparaître dans votre explorateur de fichier avec le dossier CEN - 00_Ressources. 
 
 <p style="text-align: center;"> ![](images/synchro_ON_5.png) </p>
 
-6. Répetez l'opération pour les 6 autres dossiers. L'intégralité de l'arborescence serveur CEN-NA est désormais accessible depuis votre explorateur de fichiers :
+7. Répetez l'opération pour les 6 autres dossiers. L'intégralité de l'arborescence serveur CEN-NA est désormais accessible depuis votre explorateur de fichiers :
 
 <p style="text-align: center;"> ![](images/synchro_ON_6.png) </p>
 
@@ -236,7 +240,7 @@ Remarque: Contrairement au partage avec d'autres salariés du CEN-NA, il vous es
 
 ## Cas des projets QGIS
 ## Bug : ouverture du OneDrive depuis Firefox est problématique
-## retrouver tous les fichiers partagés avec une personne en particulier
+## Retrouver tous les fichiers partagés avec une personne en particulier
 ## ...
 
 (liste à enrichir au fur et à mesure sur la base du retour des collègues)
