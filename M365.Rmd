@@ -21,9 +21,7 @@ output:
 <!-- Package utilisée pour la création de ce document: library(rmarkdown), library(prettydoc)--> 
 
 <h2>  **Formation "Prise en main du OneDrive M365" (Octobre 2023)** </h2> 
-###### *En plus de ce document, la vidéo de la formation sera disponible [ici](https://conservatoirena-my.sharepoint.com) *
 
-<br>
 
 ------------------
 
