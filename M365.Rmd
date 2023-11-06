@@ -237,8 +237,24 @@ Remarque: Contrairement au partage avec d'autres salariés du CEN-NA, il vous es
 # **3. Divers**
 
 ## Cas des projets QGIS
+
+"capture d'écran à intégrer ici"
+
+
 ## Bug : ouverture du OneDrive depuis Firefox est problématique
+
+Certains collègues font face à des problèmes de connexion au OneDrive depuis une ou plusieurs versions de Firefox en particulier. 
+Si vous rencontrez le message d'erreur ci-dessous merci de vous connecter au OneDrive depuis Google Chrome.
+
+<p style="text-align: center;">![](images/bug_firefox.png)</p>
+
+
 ## Retrouver tous les fichiers partagés avec une personne en particulier
+Il est possible de retrouver l'intégralité des fichiers partagés avec une personne en particulier directement depuis votre OneDrive via l'onglet "Parcourir les fichiers par"
+
+<p style="text-align: center;">![](images/recherche_personnes.PNG)</p>
+
+
 ## ...
 
 (liste à enrichir au fur et à mesure sur la base du retour des collègues)
