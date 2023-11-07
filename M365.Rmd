@@ -163,11 +163,19 @@ Accédez à votre OneDrive salarié depuis votre naviguateur web et cliquez sur 
 2. Ouvrez Word, Excel ou Powerpoint sur votre PC puis cliquez sur fichier "Enregistrer sous" et sélectionnez l'emplacement de votre OneDrive salarié ou du OneDrive CEN-NA pour y enregistrer l'élément.
 
 
-### Copie d'un fichier depuis mon PC vers mon OneDrive par glisser/déposer
+### Transfert d'un fichier depuis mon PC vers mon OneDrive par glisser/déposer
+
+- à partir de l'explorateur de fichiers :
 
 Pour déplacer un fichier depuis votre PC vers votre OneDrive salarié ou vers le OneDrive CEN-NA vous pouvez utiliser la fonctionnalité "copier/couper - coller" ou alors faire un simple glisser/déposer :
 
 <p style="text-align: center;">![](images/drag_drop.gif)</p>
+
+
+- à partir d'un navigateur web :
+
+Vous pouvez également télécharger des fichiers ou des dossiers de votre PC vers votre OneDrive salarié ou vers le OneDrive CEN-NA directement depuis votre naviguateur web à partir du bouton "Ajouter une nouvelle" situé en haut à gauche de votre OneDrive : 
+<p style="text-align: center;">![](images/upload.png)</p>
 
 
 ## Restauration d'un élément supprimé
