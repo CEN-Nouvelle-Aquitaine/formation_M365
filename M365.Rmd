@@ -196,7 +196,16 @@ Allez dans votre OneDrive salarié / Cliquez sur "Corbeille" / Séléctionnez le
 
 Dans le cas d'une suppression d'un élément sur le OneDrive CEN-NA la restauration du ou des éléments en question devra se faire via un ticket destiné à la DSI.
 
+
+
+## Retrouver tous les fichiers partagés avec une personne en particulier
+Il est possible de retrouver l'intégralité des fichiers partagés avec une personne en particulier directement depuis votre OneDrive via l'onglet "Parcourir les fichiers par"
+
+<p style="text-align: center;">![](images/recherche_personnes.PNG)</p>
+
+
 <br>
+
 
 # **2. Gestion des modalités de partage d'un élément du OneDrive (dossier ou fichier) **
 
@@ -257,10 +266,19 @@ Si vous rencontrez le message d'erreur ci-dessous merci de vous connecter au One
 <p style="text-align: center;">![](images/bug_firefox.png)</p>
 
 
-## Retrouver tous les fichiers partagés avec une personne en particulier
-Il est possible de retrouver l'intégralité des fichiers partagés avec une personne en particulier directement depuis votre OneDrive via l'onglet "Parcourir les fichiers par"
+## Le OneDrive CEN-NA a disparu de mon explorateur de fichiers
 
-<p style="text-align: center;">![](images/recherche_personnes.PNG)</p>
+Pas de panique, si le OneDrive CEN-NA a disparu de votre explorateur de fichiers cela est très certainement du au fait que votre OneDrive est déconnecté. Pour le relancer il vous suffit de taper dans la barre de recherche du menu démarrer le terme "OneDrive" et d'ouvrir l'application associée. Le OneDrive CEN-NA devrait alors réapparaître dans l'explorateur de fichiers 2 à 3 minutes après avoir relancé l'application.
+
+<p style="text-align: center;">![](images/redemerrage_onedrive.png)</p>
+
+
+
+## Ma corbeille contient des dossiers dont les chemins correspondent à des emplacement du OneDrive CEN-NA
+
+On vient de vérifier et c'est un comportement normal du OneDrive lorsque ce dernier est synchro dans l'explorateur de fichiers. Les dossiers supprimés depuis le OneDrive CEN-NA voient leurs "anciens emplacements" dans l'arborescence serveur transiter dans les corbeilles des salariés (ça n'occupe pas d'espace dans votre corbeille et sur votre PC) 🙂
+
+<p style="text-align: center;">![](images/redemerrage_onedrive.png)</p>
 
 
 ## ...
@@ -268,5 +286,5 @@ Il est possible de retrouver l'intégralité des fichiers partagés avec une per
 (liste à enrichir au fur et à mesure sur la base du retour des collègues)
 ------------------
 
-
+browser()  # Execution will pause here
 
