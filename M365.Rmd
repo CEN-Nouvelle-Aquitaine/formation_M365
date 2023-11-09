@@ -126,8 +126,10 @@ Les fichiers présentant l'icône ![](images/hors_ligne2.png) correspondent aux 
 Cette fonctionnalité peut ainsi permettre d'anticiper des sessions de travail sans connexion internet (déplacement en train par exemple), il vous suffit en effet d'activer cette option sur les fichiers souhaités avant de perdre votre connexion internet pour continuer à travailler dessus en étant hors ligne. Ainsi lorsque vous ajouterez, modifierez ou supprimerez un fichier ou un dossier dans votre OneDrive ou le OneDrive CEN-NA en étant hors-ligne, les modifications que vous ou d’autres personnes auront apportées seront synchronisées et appliquées automatiquement lorsque vous retrouverez une connexion à internet.
 
 <u>Remarque</u> : 
-<font size="3"><i>Cette fonctionnalité implique forcément une consommation de l'espace de stockage du disque dur de votre PC puisque vous télécharger localement une copie des fichiers/dossiers sélectionnés précedemment du OneDrive. Il est donc important de n'utiliser cette fonctionnalité que sur des éléments ne représentant pas un trop gros volume de données en plus de penser à libérer de l'espace en faisant en sorte que ces éléments soient de nouveau uniquement disponible en ligne lorsque vous avez fini de travailler en mode "hors-connexion".
-Pour se faire, la démarche à suivre est très simple: il vous suffit de cliquer sur l'icône du OneDrive dans la partie la plus à droite de la barre des tâches (à proximité de l'heure) et cliquer sur l'icône en forme de rouage et de sélectionner "paramètres": 
+<font size="3"><i>Cette fonctionnalité implique forcément une consommation de l'espace de stockage du disque dur de votre PC puisque vous télécharger localement une copie des fichiers/dossiers sélectionnés précedemment du OneDrive. Il est donc important de n'utiliser cette fonctionnalité que sur des éléments ne représentant pas un trop gros volume de données. Une fois le travail "hors-connexion" terminé il est également recommandé de rendre de nouveau ces élements accessibles uniquement en ligne de manière à libérer de l'espace sur votre ordinateur.
+Pour se faire, la démarche à suivre est très simple: il vous suffit de faire un clic-droit sur les fichiers présentant l'icône ![](images/hors_ligne2.png) et de sélectionner "Libérer de l'espace" pour ne garder le fichier que sur le OneDrive.
+
+Pour faire cette opération sur l'intégralité des fichiers et dossiers du OneDrive vous pouvez également cliquer sur l'icône en forme de nuage bleu dans la partie la plus à droite de la barre des tâches (à proximité de l'heure) et cliquer sur l'icône en forme de rouage et de sélectionner "paramètres": 
 
 <p style="text-align: center;">![](images/icone_OD.png)</p>
 
@@ -140,7 +142,11 @@ Puis "Libérer de l'espace" :
 
 <p style="text-align: center;">![](images/liberer_espace_OD.png)</p>
 
-Une fois l'opération terminée, l'explorateur de fichiers ouvrira une nouvelle fenêtre de votre OneDrive.
+Une fois l'opération terminée, l'explorateur de fichiers ouvrira une nouvelle fenêtre de votre OneDrive. Quelques instants plus tard l'intégralité de vos fichiers sera de nouveau accessible depuis l'explorateur de fichiers mais exclusivement sous réserve d'une connexion internet.
+
+<br>
+
+
 </font></i>
 
 ## Création/suppression de fichiers/dossiers dans le OneDrive
@@ -204,7 +210,31 @@ Il est possible de retrouver l'intégralité des fichiers partagés avec une per
 <p style="text-align: center;">![](images/recherche_personnes.PNG)</p>
 
 
+
+## Utiliser OneDrive et l’Assistant de Stockage pour économiser l'espace disque de votre PC
+
+L’Assistant Stockage Windows est un outil qui fonctionne avec OneDrive pour libérer automatiquement de l’espace en rendant les fichiers locaux que vous n’utilisez plus en mode "hors ligne" sur le OneDrive en fichiers accessibles en ligne uniquement. Pour rappel: les fichiers en ligne uniquement sont stockés sur le OneDrive et sont accessibles aussi bien via votre naviguateur web que par l'explorateur de fichiers dès lors que vous disposez d'une connexion internet. 
+
+Pour activer l'assistant de stockage, il vous faut :
+
+1.Rechercher "Paramètres de stockage" dans le menu démarrer puis ouvrir l'application associée :
+
+<p style="text-align: center;">![](images/parametre_stockage.png)</p>
+
+2. Activer l'assistant de stockage comme illustré ci-dessous puis sélectionnr "Configurer l'assistant de stockage"
+
+<p style="text-align: center;">![](images/parametre_stockage2.png)</p>
+
+
+3. Descendre jusqu'à la partie intitulée "Contenu dans le cloud disponible en local" et changer les valeurs dans les listes déroulantes de "Jamais" à "14 jours" pour chacun des dossiers parents du OneDrive CEN-NA (00_Ressources / 01_Vie_Interne / etc.)
+
+<p style="text-align: center;">![](images/parametre_stockage3.png)</p>
+
+
+Toutes les deux semaines les fichiers que vous auriez pu rendre accessibles en mode "hors-connexion" basculeront automatiquement comme uniquement accessible en ligne depuis l'explorateur de fichiers (c'est à dire sous réserve d'une connexion internet). Toutes les deux semaines ce processus vous permettra ainsi de libérer votre disque dur d'un volume de stockage plus ou moins conséquent selon vos usages.
+
 <br>
+
 
 
 # **2. Gestion des modalités de partage d'un élément du OneDrive (dossier ou fichier) **
@@ -286,5 +316,5 @@ On vient de vérifier et c'est un comportement normal du OneDrive lorsque ce der
 (liste à enrichir au fur et à mesure sur la base du retour des collègues)
 ------------------
 
-browser()  # Execution will pause here
+
 
