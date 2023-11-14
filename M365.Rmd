@@ -114,22 +114,23 @@ Il vous suffit pour chaque dossier parent de l'arborescence serveur ([00_Ressour
 
 ## Utilisation ponctuelle du OneDrive CEN-NA et/ou du OneDrive salarié en mode "hors-connexion"
 
+### Rendre des fichiers OneDrive mobilisables sans connexion internet
 
-Un des avantages principaux de cette synchronisation du OneDrive avec l'explorateur de fichiers est qu'il peut être utilisé même sans connexion internet. Il en effet possible de travailler sur vos fichiers en étant hors ligne dès lors que le ou les fichiers en questions présentent l'une des deux icônes suivantes: ![](images/hors_ligne1.png) / ![](images/hors_ligne2.png).
+Un des avantages principaux de cette synchronisation du OneDrive avec l'explorateur de fichiers est qu'il peut être utilisé même sans connexion internet. Il en effet possible de travailler sur vos fichiers en étant hors ligne dès lors que le ou les fichiers en question présentent l'une des deux icônes suivantes: ![](images/hors_ligne1.png) / ![](images/hors_ligne2.png).[^1]
 
-Les fichiers dans l'explorateur de fichiers présentant l'icône: ![](images/hors_ligne1.png) correspondent aux fichiers que vous avez déjà ouverts sur votre ordinateur, ces derniers sont donc à la fois accessibles en ligne mais aussi en local, vous pouvez donc les ouvrir même sans connexion internet[^1]. 
+[^1]: Les fichiers dans l'explorateur de fichiers présentant l'icône: ![](images/hors_ligne1.png) correspondent aux fichiers que vous avez déjà ouverts sur votre ordinateur, ces derniers sont donc à la fois accessibles en ligne mais aussi en local, vous pouvez donc les ouvrir même sans connexion internet (ces derniers deviendront automatiquement de nouveau disponibles uniquement en ligne après le délai établi dans vos paramétrages dans l'assistant de stockage).<br><br>
+Les fichiers présentant l'icône ![](images/hors_ligne2.png) correspondent aux fichiers pour lesquels l'option "Toujours conserver sur cet appareil" a été activée; tout comme les fichiers précédents ces fichiers restent accessibles en ligne mais également en local sur votre ordinateur. 
 
-[^1]: Ces fichiers deviendront automatiquement de nouveau disponibles uniquement en ligne apès le délai établi dans vos paramétrages dans l'assistant de stockage.
+Pour activer cette fonctionnalité il suffit de faire un clic droit sur le ou les éléments souhaités (fichier(s) ou dossier(s)) et de sélectionner "Toujours conserver sur cet appareil".
+Cette fonctionnalité peut ainsi permettre d'anticiper des sessions de travail sans connexion internet (déplacement en train par exemple), il vous suffit en effet d'activer cette option sur les fichiers souhaités avant de perdre votre connexion internet pour continuer à travailler dessus en étant hors ligne. Ainsi lorsque vous ajouterez, modifierez ou supprimerez des éléments d'un fichier ou d'un dossier dans votre OneDrive ou le OneDrive CEN-NA en étant hors-ligne, les modifications que vous ou d’autres personnes auront apportées seront synchronisées et appliquées automatiquement lorsque vous retrouverez une connexion à internet.
 
-Les fichiers présentant l'icône ![](images/hors_ligne2.png) correspondent aux fichiers pour lesquels l'option "Toujours conserver sur cet appareil" a été activée; tout comme les fichiers précédents ces fichiers restent accessibles en ligne mais également en local sur votre ordinateur. Pour activer cette fonctionnalité il suffit de faire un clic droit sur le ou les éléments souhaités (fichier(s) ou dossier(s)) et de sélectionner "Toujours conserver sur cet appareil".
+### Libérer de l'espace disque en repassant les fichiers OneDrive comme "accessible en ligne uniquement"
 
-Cette fonctionnalité peut ainsi permettre d'anticiper des sessions de travail sans connexion internet (déplacement en train par exemple), il vous suffit en effet d'activer cette option sur les fichiers souhaités avant de perdre votre connexion internet pour continuer à travailler dessus en étant hors ligne. Ainsi lorsque vous ajouterez, modifierez ou supprimerez un fichier ou un dossier dans votre OneDrive ou le OneDrive CEN-NA en étant hors-ligne, les modifications que vous ou d’autres personnes auront apportées seront synchronisées et appliquées automatiquement lorsque vous retrouverez une connexion à internet.
+La fonctionnalité que nous venons de voir précedemment implique forcément une consommation de l'espace de stockage du disque dur de votre PC puisque vous téléchargez localement une copie des fichiers/dossiers du OneDrive sur lesquels vous souhaitez travailler en mode "hors-connexion". Il est donc important de n'utiliser cette fonctionnalité que sur des éléments ne représentant pas un trop gros volume de données. 
+Une fois le travail "hors-connexion" terminé il est également recommandé de rendre de nouveau ces élements accessibles uniquement en ligne de manière à libérer de l'espace sur votre ordinateur.
+Pour se faire, la démarche à suivre est très simple: il vous suffit de faire un clic-droit sur les fichiers présentant l'icône ![](images/hors_ligne2.png) et de sélectionner "Libérer de l'espace" pour désactiver la possibilité d'accéder à ces fichiers sans connexion internet et ainsi libérer de l'espace sur votre disquer dur.<br>
 
-<u>Remarque</u> : 
-<font size="3"><i>Cette fonctionnalité implique forcément une consommation de l'espace de stockage du disque dur de votre PC puisque vous télécharger localement une copie des fichiers/dossiers sélectionnés précedemment du OneDrive. Il est donc important de n'utiliser cette fonctionnalité que sur des éléments ne représentant pas un trop gros volume de données. Une fois le travail "hors-connexion" terminé il est également recommandé de rendre de nouveau ces élements accessibles uniquement en ligne de manière à libérer de l'espace sur votre ordinateur.
-Pour se faire, la démarche à suivre est très simple: il vous suffit de faire un clic-droit sur les fichiers présentant l'icône ![](images/hors_ligne2.png) et de sélectionner "Libérer de l'espace" pour ne garder le fichier que sur le OneDrive.
-
-Pour faire cette opération sur l'intégralité des fichiers et dossiers du OneDrive vous pouvez également cliquer sur l'icône en forme de nuage bleu dans la partie la plus à droite de la barre des tâches (à proximité de l'heure) et cliquer sur l'icône en forme de rouage et de sélectionner "paramètres": 
+Vous pouvez également faire cela pour l'intégralité des fichiers et dossiers du OneDrive vous en cliquant sur l'icône en forme de nuage bleu dans la partie la plus à droite de la barre des tâches (à proximité de l'heure) et cliquer sur l'icône en forme de rouage et de sélectionner "paramètres": 
 
 <p style="text-align: center;">![](images/icone_OD.png)</p>
 
@@ -148,6 +149,7 @@ Une fois l'opération terminée, l'explorateur de fichiers ouvrira une nouvelle 
 
 
 </font></i>
+
 
 ## Création/suppression de fichiers/dossiers dans le OneDrive
 
