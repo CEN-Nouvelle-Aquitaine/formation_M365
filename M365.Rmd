@@ -42,7 +42,7 @@ Pré-requis : Windows 10 ou 11 & M365 d'installé sur son PC
 # **1. Distinction entre OneDrive salarié et OneDrive CEN-NA (ou "serveur CEN-NA")**
 
 ## OneDrive salarié 
-Connectez-vous à [conservatoirena-my.sharepoint.com](conservatoirena-my.sharepoint.com) à l'aide de votre adresse @cen-na.org et le mot de passe que vous avez défini au moment de l'installation de M365.
+Connectez-vous à [conservatoirena-my.sharepoint.com](https://conservatoirena-my.sharepoint.com) à l'aide de votre adresse @cen-na.org et le mot de passe que vous avez défini au moment de l'installation de M365.
 
 Cliquez ensuite sur l'onglet "Mes fichiers" dans l'encart en haut à gauche de votre écran pour accéder à la racine de votre OneDrive salarié comme affiché ci-dessous:
 
