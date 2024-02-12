@@ -306,9 +306,31 @@ Pas de panique, si le OneDrive CEN-NA a disparu de votre explorateur de fichiers
 
 
 
-## Ma corbeille contient des dossiers dont les chemins correspondent à des emplacement du OneDrive CEN-NA
+## Changer le début du chemin d'accès du OneDrive de 'Conservatoire d'Espaces Naturels de Nouvelle-Aquitaine" en "CEN"
 
-<!-- On vient de vérifier et c'est un comportement normal du OneDrive lorsque ce dernier est synchro dans l'explorateur de fichiers. Les dossiers supprimés depuis le OneDrive CEN-NA voient leurs "anciens emplacements" dans l'arborescence serveur transiter dans les corbeilles des salariés (ça n'occupe pas d'espace dans votre corbeille et sur votre PC) 🙂 -->
+Suite à une demande collective de la part de l'équipe désireuse de gagner une cinquantaine de caractères sur la limitation de la longueur des chemins d'accès du OneDrive, nous avons modifié le début du chemin d'accès au OneDrive de 'C:/Users/Nom du salarié/Conservatoire d'Espaces Naturels de Nouvelle-Aquitaine/...' en 'C:/Users/Nom du salarié/CEN/...'. 
+
+Pour certain(e)s cet ajustement est automatiquement effectif dans votre explorateur de fichiers, pour d'autres cela nécessite une déconnexion/reconnexion au OneDrive. Pour se faire il vous suffit de suivre les étapes suivantes:
+
+<p style="text-align: center;">![](images/deconnexion_onedrive.png)</p>
+
+Puis:
+
+<p style="text-align: center;">![](images/deconnexion_onedrive2.png)</p>
+
+NB: Il peut être nécessaire d'attendre 5 à 10 minutes pour que votre OneDrive se déconnecte complètement.
+
+Une fois que votre OneDrive est bien déconnecté, vous allez pouvoir relancer sa synchronisation à votre explorateur de fichiers:
+
+voir partie ["Synchronisation du OneDrive CEN-NA à l’explorateur de fichiers Windows"](https://cen-nouvelle-aquitaine.github.io/formation_M365/M365.html#synchronisation-du-onedrive-cen-na-%C3%A0-lexplorateur-de-fichiers-windows)
+
+Faites bien attention à ne pas synchroniser votre Bureau et le dossier "Documents" avec votre OneDrive (sauf si c'est une fonctionnalité que vous connaissez et que vous souhaitez utiliser). (cette décision sera considérée comme irreversible puisque je ne ferai pas de manip' sur votre PC au cas où vous changeriez d'avis)
+
+<p style="text-align: center;">![](images/skip_backup.png)</p>
+
+Une fois toutes ces étapes réalisés vous devriez visualiser le nouveau nom du OneDrive:
+
+<p style="text-align: center;">![](images/nouveau_onedrive.png)</p>
 
 
 ## ...
