@@ -328,7 +328,7 @@ Faites bien attention à ne pas synchroniser votre Bureau et le dossier "Documen
 
 <p style="text-align: center;">![](images/skip_backup.png)</p>
 
-Une fois toutes ces étapes réalisés vous devriez visualiser le nouveau nom du OneDrive:
+Une fois toutes ces étapes réalisées vous devriez visualiser le nouveau nom du OneDrive:
 
 <p style="text-align: center;">![](images/nouveau_onedrive.png)</p>
 
