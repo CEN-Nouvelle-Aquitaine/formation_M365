@@ -318,17 +318,20 @@ Puis:
 
 <p style="text-align: center;">![](images/deconnexion_onedrive2.png)</p>
 
-NB: Il peut être nécessaire d'attendre 5 à 10 minutes pour que votre OneDrive se déconnecte complètement.
+<p style="text-align: center;"> <font size="2"><u>NB</u>: Il peut être nécessaire d'attendre 5 à 10 minutes pour que votre OneDrive se déconnecte complètement.</font> </p>
 
 Une fois que votre OneDrive est bien déconnecté, vous allez pouvoir relancer sa synchronisation à votre explorateur de fichiers:
 
-voir partie ["Synchronisation du OneDrive CEN-NA à l’explorateur de fichiers Windows"](https://cen-nouvelle-aquitaine.github.io/formation_M365/M365.html#synchronisation-du-onedrive-cen-na-%C3%A0-lexplorateur-de-fichiers-windows)
+- Se référer à la partie : ["Synchronisation du OneDrive CEN-NA à l’explorateur de fichiers Windows"](https://cen-nouvelle-aquitaine.github.io/formation_M365/M365.html#synchronisation-du-onedrive-cen-na-%C3%A0-lexplorateur-de-fichiers-windows)
 
 Faites bien attention à ne pas synchroniser votre Bureau et le dossier "Documents" avec votre OneDrive (sauf si c'est une fonctionnalité que vous connaissez et que vous souhaitez utiliser). (cette décision sera considérée comme irreversible puisque je ne ferai pas de manip' sur votre PC au cas où vous changeriez d'avis)
 
+
 <p style="text-align: center;">![](images/skip_backup.png)</p>
 
+
 Une fois toutes ces étapes réalisées vous devriez visualiser le nouveau nom du OneDrive:
+
 
 <p style="text-align: center;">![](images/nouveau_onedrive.png)</p>
 
