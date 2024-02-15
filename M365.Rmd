@@ -329,6 +329,12 @@ Faites bien attention à ne pas synchroniser votre Bureau et le dossier "Documen
 
 <p style="text-align: center;">![](images/skip_backup.png)</p>
 
+Si vous aviez déjà synchronisé au moins une fois le OneDrive CEN-NA avec votre explorateur de fichiers, OneDrive va vous poser la question suivante:
+
+<p style="text-align: center;">![](images/utiliser_dossier.png)</p>
+
+Pour chaque dossier, sélectionnez "Utiliser ce dossier".
+
 
 Une fois toutes ces étapes réalisées vous devriez visualiser le nouveau nom du OneDrive:
 
