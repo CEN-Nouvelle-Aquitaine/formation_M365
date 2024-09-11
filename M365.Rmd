@@ -53,6 +53,7 @@ Cliquez ensuite sur l'onglet "Mes fichiers" dans l'encart en haut à gauche de v
 * Chaque salarié dispose dans son OneDrive attitré d'un espace de stockage de 1To (limite maximum de stockage possible).
 * Les éléments de travail stockés dans ce OneDrive salarié sont visibles par défaut uniquement au salarié associé.
 * Le salarié est l'unique responsable de la gestion des fichiers stockés dans son OneDrive. La DSI n'a pas la main pour restaurer d'éventuels fichiers supprimés si ces derniers n'ont pas été récupérés dans la corbeille du OneDrive salarié au terme d'un délai de 30 jours
+* Il ne faut pas créer, dans le OneDrive salarié, de raccourcis pointant vers des dossiers ou fichiers provenant du OneDrive CEN-NA afin d'éviter tout problème de synchronisation.
     
 ## OneDrive CEN-NA
 
