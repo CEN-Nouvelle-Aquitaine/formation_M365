@@ -259,7 +259,9 @@ Une fois le lien de partage correctement paramétré il vous suffit de cliquer s
 Pour partager un élément avec un, deux ou un groupe de salarié en particulier, la méthode reste la même que précedemment:
 Il suffit de cliquer sur l'icone en forme de rouage puis de sélectionner "Partager le lien avec : Personne de votre choix" et d'appliquer ces changements.
 
-<p style="text-align: center;">![](images/fenetre_partage.png)</p>
+<p style="text-align: center;">![](images/fenetre_partage_2.PNG)</p>
+
+<p style="text-align: center;">![](images/parametres_partage_3.PNG)</p>
 
 Vous n'aurez plus qu'à renseigner le ou les noms des personnes avec qui vous souhaitez partager l'élément (ou le nom de tout un groupe de salariés : "Antenne 24", "CSE", "CODIR" etc.) dans l'encart :
 <p style="text-align: center;">![](images/destinataires.png)</p>
@@ -267,7 +269,14 @@ Vous n'aurez plus qu'à renseigner le ou les noms des personnes avec qui vous so
 
 ### Avec des personnes extérieures au CEN-NA
 
-Pour partager un élément avec des personnes extérieures au CEN-NA, la méthode est exactement la même que précedemment; il vous suffit simplement de renseigner les adresses mail des personnes dans l'encart :
+Pour partager un élément avec des personnes extérieures au CEN-NA, la méthode est la même que précedemment; il vous suffit de sélectionner "Personnes de votre choix" comme type d'autorisation puis de cliquer sur "Appliquer":
+
+<p style="text-align: center;">![](images/parametres_partage_2.PNG)</p>
+
+<p style="text-align: center;">![](images/parametres_partage_3.PNG)</p>
+
+
+Il vous suffira ensuite de simplement renseigner les adresses mail des personnes dans l'encart :
 
 <p style="text-align: center;">![](images/personnes_ext.png)</p>
 
